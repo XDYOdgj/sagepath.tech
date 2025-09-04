@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sagepath.tech/sitemap.xml
